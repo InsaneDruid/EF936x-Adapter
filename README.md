@@ -1,4 +1,4 @@
-# EF936x-Adapter
+# The EF936x-Adapter
 Adapter for using an EF9367 instead of an EF9366/65, especially on the Low Speed Graphik graphics board
 
 ![HR40 render](https://github.com/InsaneDruid/EF936x-Adapter/blob/main/images/ef936x_adapter_render.png)
