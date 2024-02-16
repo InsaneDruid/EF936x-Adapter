@@ -5,6 +5,16 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "EF936x ADAPTER")
+    (date "2024-02-16")
+    (rev "REV A")
+    (comment 1 "reverse-engineered in 2022")
+    (comment 2 "creativecommons.org/licenses/by-sa/4.0/")
+    (comment 3 "License: CC BY-SA 4.0")
+    (comment 4 "Author: InsaneDruid")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
