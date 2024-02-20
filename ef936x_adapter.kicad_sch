@@ -2876,7 +2876,7 @@
     (property "Value" "EF9367" (at 69.3294 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (at 67.31 48.26 0)
+    (property "Footprint" "ef936x_adapter_lib_fp:DIP-40_W15.24mm_Socket" (at 67.31 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheetspdf.com/pdf-file/604475/SGS-Thomson/EF9367/1" (at 69.85 53.34 0)
